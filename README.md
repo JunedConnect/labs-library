@@ -26,7 +26,11 @@
 
 <br>
 
+<div align="center">
+
 <h2>🛡️ Miscellaneous Cyber Security Projects</h2>
+
+</div>
 
 <br>
 
