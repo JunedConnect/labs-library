@@ -18,7 +18,7 @@
 
 [![Lab HA-FlaskApp-Docker](https://img.shields.io/badge/High%20Availability%20Flask%20Web%20App%20with%20Docker-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ha-flaskapp-docker)
 
-[![Lab_ECS-Project](https://img.shields.io/badge/ECS%20End--to--End%20Production%20Project-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ecs-project)
+[![Lab_ECS-Project](https://img.shields.io/badge/ECS%20End--to--End%20Application%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ecs-project)
 
 <br>
 
