@@ -38,9 +38,9 @@
 
 [![SOC Automation](https://img.shields.io/badge/SOC_Automation-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/soc-automation)
 
-[![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-0096D6?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/vulnerability-scanning)
+<!-- [![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-0096D6?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/vulnerability-scanning) -->
 
-[![SCCM/MECM Server Management](https://img.shields.io/badge/SCCM%2FMECM_Server_Management-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/sccm-mecm-server-management)
+<!-- [![SCCM/MECM Server Management](https://img.shields.io/badge/SCCM%2FMECM_Server_Management-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/sccm-mecm-server-management) -->
 
 [![Azure Sentinel SIEM Honeypot Geolocation Dashboard](https://img.shields.io/badge/Azure_Sentinel_SIEM_Honeypot_Geolocation_Dashboard-0096D6?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/sentinel-siem-honeypot-geolocation-dashboard)
 
