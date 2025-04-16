@@ -12,13 +12,15 @@
 
 <br>
 
+[![Lab Journaliser](https://img.shields.io/badge/Journaliser%20ECS%20App%20Deployment-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-charlie)
+
+[![Lab_ECS-Project](https://img.shields.io/badge/ECS%20End--to--End%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ecs-project)
+
+[![Lab HA-FlaskApp-Docker](https://img.shields.io/badge/HA%20Flask%20Web%20App%20with%20Docker-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ha-flaskapp-docker)
+
+[![Lab_HA-Nginx](https://img.shields.io/badge/HA%20Nginx%20Web%20Server%20with%20Health%20Check-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ha-nginx)
+
 [![Lab_Custom-Domain-Nginx](https://img.shields.io/badge/Custom%20Domain%20Nginx%20Web%20Server-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-custom-domain-nginx)
-
-[![Lab_HA-Nginx](https://img.shields.io/badge/High%20Availability%20Nginx%20Web%20Server%20with%20Health%20Check-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ha-nginx)
-
-[![Lab HA-FlaskApp-Docker](https://img.shields.io/badge/High%20Availability%20Flask%20Web%20App%20with%20Docker-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ha-flaskapp-docker)
-
-[![Lab_ECS-Project](https://img.shields.io/badge/ECS%20End--to--End%20Application%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ecs-project)
 
 <br>
 
