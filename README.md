@@ -12,13 +12,19 @@
 
 <br>
 
+[![Lab_Wind Grunt EKS](https://img.shields.io/badge/Wind%20Grunt%20EKS%20(Terragrunt)%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-bravo-terragrunt)
+
 [![Lab WindOps EKS](https://img.shields.io/badge/WindOps%20EKS%20(Kubernetes)%20App%20Deployment-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-bravo)
 
 [![Lab_EKS-Project](https://img.shields.io/badge/EKS%20(Kubernetes)%20Threat--Ops%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-eks-project)
 
+<br>
+
 [![Lab Journaliser](https://img.shields.io/badge/Journaliser%20ECS%20App%20Deployment-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-charlie)
 
 [![Lab_ECS-Project](https://img.shields.io/badge/ECS%20Threat--Ops%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ecs-project)
+
+<br>
 
 [![Lab HA-FlaskApp-Docker](https://img.shields.io/badge/HA%20Flask%20Web%20App%20with%20Docker-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ha-flaskapp-docker)
 
