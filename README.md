@@ -16,13 +16,17 @@
 
 [![Lab WindOps EKS](https://img.shields.io/badge/WindOps%20EKS%20(Kubernetes)%20App%20Deployment-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-bravo)
 
-[![Lab_EKS-Project](https://img.shields.io/badge/EKS%20(Kubernetes)%20Threat--Ops%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-eks-project)
+<!-- [![Lab_EKS-Project](https://img.shields.io/badge/EKS%20(Kubernetes)%20Threat--Ops%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-eks-project) -->
 
 <br>
 
-[![Lab Journaliser](https://img.shields.io/badge/Journaliser%20ECS%20App%20Deployment-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-charlie)
+<br>
 
-[![Lab_ECS-Project](https://img.shields.io/badge/ECS%20Threat--Ops%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ecs-project)
+[![Lab Journaliser](https://img.shields.io/badge/Journaliser%20ECS%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-charlie)
+
+<!-- [![Lab_ECS-Project](https://img.shields.io/badge/ECS%20Threat--Ops%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ecs-project) -->
+
+<br>
 
 <br>
 
