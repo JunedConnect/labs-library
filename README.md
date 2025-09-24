@@ -18,6 +18,8 @@
 
 <br>
 
+<br>
+
 **EKS:**
 
 [![Lab_Wind Grunt EKS](https://img.shields.io/badge/Wind%20Grunt%20EKS%20(Terragrunt)%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-bravo-terragrunt)
@@ -28,11 +30,17 @@
 
 <br>
 
+<br>
+
 **ECS:**
 
-[![Lab Journaliser](https://img.shields.io/badge/Journaliser%20ECS%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-charlie)
+[![Lab Project URL-Shortener](https://img.shields.io/badge/Blue--Green%20Genesis%20(AWS%20CodeDeploy)%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-url-shortener)
+
+[![Lab Journaliser](https://img.shields.io/badge/Journaliser%20ECS%20App%20Deployment-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-charlie)
 
 <!-- [![Lab_ECS-Project](https://img.shields.io/badge/ECS%20Threat--Ops%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ecs-project) -->
+
+<br>
 
 <br>
 
@@ -42,6 +50,7 @@
 
 <br>
 
+<br>
 
 **Other:**
 
