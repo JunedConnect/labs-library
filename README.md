@@ -14,7 +14,7 @@
 
 **Data:**
 
-[![Lab Project Snowflake](https://img.shields.io/badge/Project%20Snowflake%20(Airflow%20ETL%20Pipeline)-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-snowflake)
+[![Lab Project Snowflake](https://img.shields.io/badge/Project%20Snowflake%20(Airflow%20ETL%20Pipeline)--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-snowflake)
 
 <br>
 
@@ -22,9 +22,9 @@
 
 **EKS:**
 
-[![Lab_Wind Grunt EKS](https://img.shields.io/badge/Wind%20Grunt%20EKS%20(Terragrunt)%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-bravo-terragrunt)
+[![Lab_Wind Grunt EKS](https://img.shields.io/badge/Wind%20Grunt%20EKS%20(Terragrunt)%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-bravo-terragrunt)
 
-[![Lab WindOps EKS](https://img.shields.io/badge/WindOps%20EKS%20(Kubernetes)%20App%20Deployment-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-bravo)
+[![Lab WindOps EKS](https://img.shields.io/badge/WindOps%20EKS%20(Kubernetes)%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-bravo)
 
 <!-- [![Lab_EKS-Project](https://img.shields.io/badge/EKS%20(Kubernetes)%20Threat--Ops%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-eks-project) -->
 
@@ -34,9 +34,9 @@
 
 **ECS:**
 
-[![Lab Project URL-Shortener](https://img.shields.io/badge/Blue--Green%20Genesis%20(AWS%20CodeDeploy)%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-url-shortener)
+[![Lab Project URL-Shortener](https://img.shields.io/badge/Blue%20Green%20Genesis%20(AWS%20CodeDeploy)%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-url-shortener)
 
-[![Lab Journaliser](https://img.shields.io/badge/Journaliser%20ECS%20App%20Deployment-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/project-charlie)
+[![Lab Journaliser](https://img.shields.io/badge/Journaliser%20ECS%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-charlie)
 
 <!-- [![Lab_ECS-Project](https://img.shields.io/badge/ECS%20Threat--Ops%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ecs-project) -->
 
@@ -46,7 +46,15 @@
 
 **Security:**
 
-[![Lab_DevSecOps](https://img.shields.io/badge/DevSecOps%20Lab-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-devsecops-project)
+[![Lab_DevSecOps](https://img.shields.io/badge/DevSecOps%20Lab--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/lab-devsecops-project)
+
+<br>
+
+<br>
+
+**Serverless:**
+
+[![Lab Project Lambda](https://img.shields.io/badge/Lambda%20CloudFront%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-lambda)
 
 <br>
 
@@ -54,11 +62,11 @@
 
 **Other:**
 
-[![Lab HA-FlaskApp-Docker](https://img.shields.io/badge/HA%20Flask%20Web%20App%20with%20Docker-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ha-flaskapp-docker)
+[![Lab HA-FlaskApp-Docker](https://img.shields.io/badge/HA%20Flask%20Web%20App%20with%20Docker--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/lab-ha-flaskapp-docker)
 
-[![Lab_HA-Nginx](https://img.shields.io/badge/HA%20Nginx%20Web%20Server%20with%20Health%20Check-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-ha-nginx)
+[![Lab_HA-Nginx](https://img.shields.io/badge/HA%20Nginx%20Web%20Server%20with%20Health%20Check--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/lab-ha-nginx)
 
-[![Lab_Custom-Domain-Nginx](https://img.shields.io/badge/Custom%20Domain%20Nginx%20Web%20Server-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-custom-domain-nginx)
+[![Lab_Custom-Domain-Nginx](https://img.shields.io/badge/Custom%20Domain%20Nginx%20Web%20Server--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/lab-custom-domain-nginx)
 
 <br>
 
@@ -76,12 +84,12 @@
 
 <br>
 
-[![SOC Automation](https://img.shields.io/badge/SOC_Automation-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/soc-automation)
+[![SOC Automation](https://img.shields.io/badge/SOC_Automation--42A5F5?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/soc-automation)
 
-<!-- [![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-0096D6?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/vulnerability-scanning) -->
+<!-- [![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-64B5F6?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/vulnerability-scanning) -->
 
-<!-- [![SCCM/MECM Server Management](https://img.shields.io/badge/SCCM%2FMECM_Server_Management-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/sccm-mecm-server-management) -->
+<!-- [![SCCM/MECM Server Management](https://img.shields.io/badge/SCCM%2FMECM_Server_Management-42A5F5?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/sccm-mecm-server-management) -->
 
-[![Azure Sentinel SIEM Honeypot Geolocation Dashboard](https://img.shields.io/badge/Azure_Sentinel_SIEM_Honeypot_Geolocation_Dashboard-0096D6?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/sentinel-siem-honeypot-geolocation-dashboard)
+[![Azure Sentinel SIEM Honeypot Geolocation Dashboard](https://img.shields.io/badge/Azure_Sentinel_SIEM_Honeypot_Geolocation_Dashboard--64B5F6?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/sentinel-siem-honeypot-geolocation-dashboard)
 
 <!-- This is the repo that I had used for the icons above : https://github.com/alexandresanlim/Badges4-README.md-Profile -->
