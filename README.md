@@ -12,19 +12,13 @@
 
 <br>
 
-**Data:**
-
-[![Project Snowflake](https://img.shields.io/badge/Project%20Snowflake%20(Airflow%20ETL%20Pipeline)--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-snowflake)
-
-<br>
-
-<br>
-
 **EKS:**
 
-[![Wind Grunt EKS](https://img.shields.io/badge/Wind%20Grunt%20EKS%20(Terragrunt)%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-bravo-terragrunt)
+[![Project Flux](https://img.shields.io/badge/Project%20Flux%20(GitOps)%20EKS--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-eks-flux)
 
-[![WindOps EKS](https://img.shields.io/badge/WindOps%20EKS%20(Kubernetes)%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-bravo)
+[![Wind Grunt EKS](https://img.shields.io/badge/Wind%20Grunt%20(Terragrunt)%20EKS%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-bravo-terragrunt)
+
+[![WindOps EKS](https://img.shields.io/badge/WindOps%20EKS%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-bravo)
 
 <!-- [![Lab EKS Project](https://img.shields.io/badge/EKS%20(Kubernetes)%20Threat--Ops%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-eks-project) -->
 
@@ -34,7 +28,7 @@
 
 **ECS:**
 
-[![Project URL-Shortener](https://img.shields.io/badge/Blue%20Green%20Genesis%20(AWS%20CodeDeploy)%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-url-shortener)
+[![Project URL-Shortener](https://img.shields.io/badge/Blue%20Green%20Genesis%20(AWS%20CodeDeploy)%20ECS%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-url-shortener)
 
 [![Lab Journaliser](https://img.shields.io/badge/Journaliser%20ECS%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-charlie)
 
@@ -55,6 +49,14 @@
 **Serverless:**
 
 [![Project Lambda)](https://img.shields.io/badge/Lambda%20Link%20(CloudFront%20Deployment)--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-lambda)
+
+<br>
+
+<br>
+
+**Data:**
+
+[![Project Snowflake](https://img.shields.io/badge/Project%20Snowflake%20(Airflow%20ETL%20Pipeline)--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-snowflake)
 
 <br>
 
