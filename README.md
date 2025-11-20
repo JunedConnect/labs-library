@@ -12,15 +12,19 @@
 
 <br>
 
-**EKS:**
+**Kubernetes/EKS:**
 
-[![Project Flux](https://img.shields.io/badge/Project%20Flux%20(GitOps)%20EKS--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-eks-flux)
+[![Project Flux EKS](https://img.shields.io/badge/Flux%20Flow%20(GitOps)%20EKS--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-eks-flux)
 
 [![Wind Grunt EKS](https://img.shields.io/badge/Wind%20Grunt%20(Terragrunt)%20EKS%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-bravo-terragrunt)
 
 [![WindOps EKS](https://img.shields.io/badge/WindOps%20EKS%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-bravo)
 
 <!-- [![Lab EKS Project](https://img.shields.io/badge/EKS%20(Kubernetes)%20Threat--Ops%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-eks-project) -->
+
+[![Falco Eye Kubernetes](https://img.shields.io/badge/Falco%20Eye%20(Security%20Monitoring)%20Kubernetes--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-kubernetes-falco)
+
+[![Twingate EKS](https://img.shields.io/badge/Twingate%20(Zero%20Trust)%20EKS--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-eks-twingate)
 
 <br>
 
