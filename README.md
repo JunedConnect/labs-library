@@ -24,7 +24,7 @@
 
 [![Falco Eye Kubernetes](https://img.shields.io/badge/Falco%20Eye%20(Security%20Monitoring)%20Kubernetes--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-kubernetes-falco)
 
-[![Twingate EKS](https://img.shields.io/badge/Twingate%20(Zero%20Trust)%20EKS--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-eks-twingate)
+[![Twin Trust EKS](https://img.shields.io/badge/Twin%20Trust%20(Zero%20Trust)%20EKS--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-eks-twingate)
 
 <br>
 
