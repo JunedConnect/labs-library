@@ -16,6 +16,8 @@
 
 [![Project Flux EKS](https://img.shields.io/badge/Flux%20Flow%20(GitOps)%20EKS--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-eks-flux)
 
+[![Project Ansible Kubernetes](https://img.shields.io/badge/Ansible%20Auto%20(EC2)%20Kubernetes--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-ansible-kubernetes)
+
 [![Wind Grunt EKS](https://img.shields.io/badge/Wind%20Grunt%20(Terragrunt)%20EKS%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-bravo-terragrunt)
 
 [![WindOps EKS](https://img.shields.io/badge/WindOps%20EKS%20App%20Deployment--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-bravo)
