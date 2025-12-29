@@ -4,7 +4,7 @@
 <h1> 🧪 Welcome to the Laboratory 🧪 </h1>
 
 
-<p> Here you can view all of the different guides that I have made and follow along</p>
+<p><strong> Here you can view all of the different guides that I have made and follow along</strong></p>
 
 </div>
 
