@@ -24,9 +24,11 @@
 
 <!-- [![Lab EKS Project](https://img.shields.io/badge/EKS%20(Kubernetes)%20Threat--Ops%20App%20Deployment-A2F572?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/lab-eks-project) -->
 
-[![Falco Eye Kubernetes](https://img.shields.io/badge/Falco%20Eye%20(Security%20Monitoring)%20Kubernetes--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-kubernetes-falco)
+[![Project Kubernetes Falco](https://img.shields.io/badge/Falco%20Eye%20(Security%20Monitoring)%20Kubernetes--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-kubernetes-falco)
 
-[![Twin Trust EKS](https://img.shields.io/badge/Twin%20Trust%20(Zero%20Trust)%20EKS--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-eks-twingate)
+[![Project EKS Twingate](https://img.shields.io/badge/Twin%20Trust%20(Zero%20Trust)%20EKS--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-eks-twingate)
+
+[![LocalStack Kubernetes](https://img.shields.io/badge/Local%20Cloud%20(LocalStack)%20Kubernetes--66BB6A?style=for-the-badge&logo=accenture&logoColor=black)](https://github.com/JunedConnect/project-kubernetes-localstack)
 
 <br>
 
